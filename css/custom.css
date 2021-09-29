@@ -1,0 +1,33 @@
+/* FONTS */
+
+
+/* All */
+*{
+    font-family: 'Roboto',
+}
+
+
+/* Body */
+body{
+    background-color: #ffffff;
+}
+#main{
+    display: grid;
+    grid-template-columns: 1fr 4fr 1fr;
+    min-height: calc(100vh - 10em);
+}
+.content{
+    grid-column: 2;
+}
+.center-text{
+    margin-top: 5em;
+    font-size: 1.3em;
+    text-align: center;
+}
+
+/* Footer */
+
+/* TEMP */
+.construction{
+    grid-column: 2;
+}
