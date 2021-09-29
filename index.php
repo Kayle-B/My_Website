@@ -2,6 +2,9 @@
   include(__DIR__.'/includes/header.php');
 ?>
 
+<style>
+
+</style>
 
 <body>
     <div id="main">

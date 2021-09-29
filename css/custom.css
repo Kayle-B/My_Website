@@ -1,10 +1,12 @@
 /* FONTS */
+  
+*{
+    font-family: 'Roboto-Regular';
+}
 
 
 /* All */
-*{
-    font-family: 'Roboto',
-}
+
 
 
 /* Body */
