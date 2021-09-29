@@ -1,10 +1,13 @@
 <?php
-  include(__DIR__.'/includes/header.php');
+  include(dirname(__DIR__).'/includes/header.php');
 ?>
-<main>
 
+<div id="main">
+  <div class="content">
 
-</main>
+  </div>
+</div>
+
 <?php
-  include(__DIR__.'/includes/footer.php');
+  include(dirname(__DIR__).'/includes/footer.php');
 ?>

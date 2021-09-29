@@ -14,8 +14,7 @@
       </button>
       <div class="dropdown-content">
         <a href= "/My_Website/Personal_projects/construction.php">Environment</a>
-        <a href="/My_Website/Personal_projects/construction.php">Link 2</a>
-        <a href="\My_Website\index.php">This site</a>
+        <a href="\My_Website\Personal_projects/This_Site.php">This site</a>
       </div>
     </div>
     <div class="dropdown">
@@ -23,9 +22,7 @@
         <i class="fa fa-caret-down"></i>
       </button>
       <div class="dropdown-content">
-        <a href="/My_Website/Personal_projects/construction.php">Link 1</a>
-        <a href="/My_Website/Personal_projects/construction.php">Link 2</a>
-        <a href="/My_Website/Personal_projects/construction.php">Link 3</a>
+        <a href="/My_Website/Personal_projects/construction.php">Temp Link</a>
       </div>
     </div>
   </div> 

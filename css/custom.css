@@ -33,3 +33,6 @@ body{
 .construction{
     grid-column: 2;
 }
+.title{
+    text-align: center;
+}
