@@ -1,7 +1,6 @@
 <?php
   include(dirname(__DIR__).'/includes/head.php');
 ?>
-
 <header id="header">
 <a class="logo" href="\My_Website\index.php"><img class="logo" src="\My_Website\img/Logo.png" alt=""></a>
 

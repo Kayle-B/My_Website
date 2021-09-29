@@ -7,16 +7,29 @@
 
 /* All */
 
+body{
+    background-color: #ffffff;
+    display: grid;
+    grid-template-columns: 100%;
+    grid-template-rows: 10% 80% 10%;
+}
 
 
 /* Body */
-body{
-    background-color: #ffffff;
+#header{
+    grid-row:1;
 }
+#main{
+    grid-row:2;
+}
+#footer{
+    grid-row:3;
+}
+
 #main{
     display: grid;
     grid-template-columns: 1fr 4fr 1fr;
-    min-height: calc(100vh - 10em);
+    min-height: calc(100vh - 14.2em);
 }
 .content{
     grid-column: 2;
@@ -29,10 +42,6 @@ body{
 
 /* Footer */
 
-/* TEMP */
-.construction{
-    grid-column: 2;
-}
 .title{
     text-align: center;
 }

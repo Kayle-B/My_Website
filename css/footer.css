@@ -1,8 +1,26 @@
 footer{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
     background-color: #b83f67;
-    height: 4em;
     text-align: center;
+    color: white;
+    height: 8.2em;
 }  
 footer p{
     margin: 0;
+}
+.socials ul{
+    list-style: none;
+    padding: 0;
+}
+.socials{
+    grid-column: 4;
+    text-align: left;
+}
+.socials a{
+    text-decoration: none;
+}
+.copyright{
+    grid-column: 2;
+    text-align: left;
 }
